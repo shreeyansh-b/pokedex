@@ -4,7 +4,7 @@ Pokedex is a web app to find your favourite Pokemon.
 
 ## Demo
 
-[Pokedex](https://shreeyansh-b.github.io/pokedx/)
+[Pokedex](https://shreeyansh-b.github.io/pokedex/)
 
 
 # Technologies Used
