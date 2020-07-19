@@ -17,7 +17,7 @@ PokeDex is a website to find about your favourite Pokemon.
 * Axios
 * Redux-Spring
 * Fast Average Color
-* Color
+* [Color](https://www.npmjs.com/package/color)
 
 
 ## Contributing
