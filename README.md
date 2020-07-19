@@ -10,14 +10,14 @@ PokeDex is a website to find about your favourite Pokemon.
 
 
 # Technologies Used
-*React
-*Material-UI
-*Redux
-*Redux-thunk
-*Axios
-*Redux-Spring
-*Fast Average Color
-*Color
+* React
+* Material-UI
+* Redux
+* Redux-thunk
+* Axios
+* Redux-Spring
+* Fast Average Color
+* Color
 
 
 ## Contributing
